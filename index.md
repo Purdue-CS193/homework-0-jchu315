@@ -36,4 +36,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-these are words that I am writing :D
+### Joanna's First CS193 Homework
+
+Some of my favorite CS193 things: 
+- No big assessments so lower stress
+- Student lead
+- Teaches supplementary skills useful in future classes
+- No textbook required
